@@ -1,6 +1,7 @@
 # Example of chart
 
 estimate: 4 - 8 hours
+
 fact: 6h49m
 
 ```bash
