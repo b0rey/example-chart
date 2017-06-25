@@ -1,0 +1,16 @@
+.chart {
+    position: relative;
+    display: inline-block;
+
+    &__period {
+        position: absolute;
+        left: 50px;
+        top: 10px;
+    }
+
+    &__parameter {
+        position: absolute;
+        right: 50px;
+        bottom: 70px;
+    }
+}
